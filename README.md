@@ -1,3 +1,5 @@
+This version was modified , for carrier HVAC ( please referr to the hvac brach , on the sonoff-tasmota repo .
+
 ## Sonoff-Tasmota
 Provide ESP8266 based Sonoff by [iTead Studio](https://www.itead.cc/) and ElectroDragon IoT Relay with Serial, Web and MQTT control allowing 'Over the Air' or OTA firmware updates using Arduino IDE.
 
